@@ -38,7 +38,7 @@ for line in f:
 blist= []
 for i in range(0, len(lista)):
   blist.append(toBinary(lista[i]))
-#print(blist)
+print(blist)
 
 
 #edo thelo na min iparxoun listes mesa se listes opote tis enono se mia megali lista
